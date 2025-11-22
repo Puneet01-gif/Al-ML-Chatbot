@@ -9,27 +9,37 @@ This project supports downstream applications such as:
 🔹 **ML Interview Assistants**
 🔹 **Knowledge Extractors**
 
----
+📘 Table of Contents
 
-# 📘 **Table of Contents**
+Overview
 
-* [Overview]
-* [Features]
-* [Pipeline Architecture]
-* [Data Sources]
-* [1. PDF Extraction Pipeline]
-* [2. Wikipedia Extraction Pipeline]
-* [3. Web Scraping (Javatpoint)]
-* [4. SBERT Similarity Scoring]
-* [5. Contradictory Dataset Generation]
-* [6. Fine-Tuning SBERT]
-* [Model Evaluation]
-* [Folder Structure]
-* [Installation]
-* [Run the Pipeline]
-* [Future Work]
+Features
 
----
+Pipeline Architecture
+
+Data Sources
+
+PDF Extraction Pipeline
+
+Wikipedia Extraction Pipeline
+
+Web Scraping (Javatpoint)
+
+SBERT Similarity Scoring
+
+Contradictory Dataset Generation
+
+Fine-Tuning SBERT
+
+Model Evaluation
+
+Folder Structure
+
+Installation
+
+Run the Pipeline
+
+Future Work
 
 # 📌 **Overview**
 
