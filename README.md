@@ -13,21 +13,21 @@ This project supports downstream applications such as:
 
 # 📘 **Table of Contents**
 
-* [Overview](#overview)
-* [Features](#features)
-* [Pipeline Architecture](#pipeline-architecture)
-* [Data Sources](#data-sources)
-* [1. PDF Extraction Pipeline](#1-pdf-extraction-pipeline)
-* [2. Wikipedia Extraction Pipeline](#2-wikipedia-extraction)
-* [3. Web Scraping (Javatpoint)](#3-web-scraping-javatpoint)
-* [4. SBERT Similarity Scoring](#4-sbert-similarity-scoring)
-* [5. Contradictory Dataset Generation](#5-contradictory-dataset)
-* [6. Fine-Tuning SBERT](#6-fine-tuning-sbert)
-* [Model Evaluation](#model-evaluation)
-* [Folder Structure](#folder-structure)
-* [Installation](#installation)
-* [Run the Pipeline](#run-the-pipeline)
-* [Future Work](#future-work)
+* [Overview]
+* [Features]
+* [Pipeline Architecture]
+* [Data Sources]
+* [1. PDF Extraction Pipeline]
+* [2. Wikipedia Extraction Pipeline]
+* [3. Web Scraping (Javatpoint)]
+* [4. SBERT Similarity Scoring]
+* [5. Contradictory Dataset Generation]
+* [6. Fine-Tuning SBERT]
+* [Model Evaluation]
+* [Folder Structure]
+* [Installation]
+* [Run the Pipeline]
+* [Future Work]
 
 ---
 
