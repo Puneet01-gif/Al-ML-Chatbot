@@ -9,7 +9,7 @@ This project supports downstream applications such as:
 🔹 **ML Interview Assistants**
 🔹 **Knowledge Extractors**
 
- Overview
+ # 📘 **Table of Contents**
 * Features
 * Pipeline Architecture
 * Data Sources
