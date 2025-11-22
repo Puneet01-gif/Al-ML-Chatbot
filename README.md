@@ -159,7 +159,7 @@ Full-page scraping of:
 
 # 📘 **1. PDF Extraction Pipeline**
 
-You implemented:
+implemented:
 
 * Header/footer removal
 * Page number cleanup
@@ -188,7 +188,7 @@ This produces:
 
 # 🌐 **2. Wikipedia Extraction**
 
-You generated summaries for **~300 ML topics**, filtering out:
+Generated summaries for **~300 ML topics**, filtering out:
 
 * Disambiguation pages
 * Missing content
@@ -201,7 +201,7 @@ Results saved to:
 
 # 🌍 **3. Web Scraping (Javatpoint)**
 
-You built a robust scraper with:
+Built a robust scraper with:
 
 ✔ HTML cleaning
 ✔ Removing navigation elements
@@ -216,9 +216,9 @@ Saved to:
 
 # 🤖 **4. SBERT Similarity Scoring**
 
-You computed semantic similarity for:
+Computed semantic similarity for:
 
-* Your main dataset (GPT-generated answers)
+* Main dataset (GPT-generated answers)
 * The contradictory dataset
 
 Using:
@@ -241,32 +241,15 @@ Outputs:
 
 ---
 
-# ⚠ **5. Contradictory Dataset**
 
-You generated **100 synthetic wrong answers** that deliberately contradict the questions.
-
-SBERT scored them → kept **less similar** ones.
-
-Label assigned:
-
-✔ `Label = 0` for contradictory answers
-
-Outputs:
-
-📄 `Contradictory.csv`
-📄 `Contradictory_Similarity_Scores_SBERT.csv`
-📄 `Contradictory_Labeled_Data.csv`
-
----
-
-# 🧠 **6. Fine-Tuning SBERT**
+# 🧠 **5. Fine-Tuning SBERT**
 
 Final dataset:
 
 * Positive examples → Label = 1
 * Negative examples → Label = 0
 
-You concatenated:
+Concatenated:
 
 ```
 Positive: Labeled_Data.csv  
@@ -289,7 +272,7 @@ model.fit(
 
 # 📊 **Model Evaluation**
 
-You calculated self-similarity classification:
+Calculated self-similarity classification:
 
 → **Final accuracy: 0.67**
 
