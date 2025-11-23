@@ -1,4 +1,4 @@
-#  **AI Knowledge Base Builder + SBERT Fine-Tuning Pipeline**
+#  **AI/ML Knowledge Base ChatBot + SBERT Fine-Tuning Pipeline**
 
 A complete end-to-end system for building a high-quality AI knowledge base, extracting data from multiple sources, cleaning and deduplicating text, generating contradiction datasets, computing semantic similarity with SBERT, and fine-tuning a Sentence-BERT model for relevance classification.
 
