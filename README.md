@@ -179,7 +179,7 @@ This produces:
 
 ---
 
-# 🌐 **2. Wikipedia Extraction**
+# **2. Wikipedia Extraction**
 
 Generated summaries for **~300 ML topics**, filtering out:
 
@@ -192,7 +192,7 @@ Results saved to:
 
 ---
 
-# 🌍 **3. Web Scraping (Javatpoint)**
+#  **3. Web Scraping (Javatpoint)**
 
 Built a robust scraper with:
 
@@ -235,7 +235,7 @@ Outputs:
 ---
 
 
-# 🧠 **5. Fine-Tuning SBERT**
+#  **5. Fine-Tuning SBERT**
 
 Final dataset:
 
