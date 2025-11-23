@@ -1,4 +1,4 @@
-# 🚀 **AI Knowledge Base Builder + SBERT Fine-Tuning Pipeline**
+#  **AI Knowledge Base Builder + SBERT Fine-Tuning Pipeline**
 
 A complete end-to-end system for building a high-quality AI knowledge base, extracting data from multiple sources, cleaning and deduplicating text, generating contradiction datasets, computing semantic similarity with SBERT, and fine-tuning a Sentence-BERT model for relevance classification.
 
@@ -9,7 +9,7 @@ This project supports downstream applications such as:
 🔹 **ML Interview Assistants**
 🔹 **Knowledge Extractors**
 
- # 📘 **Table of Contents**
+ #  **Table of Contents**
 * Features
 * Pipeline Architecture
 * Data Sources
@@ -364,3 +364,8 @@ python contradictory_generator.py
 ```bash
 python sbert_finetune.py
 ```
+# 📄 **License**
+This project is developed for educational and research purposes as part of a hackathon submission.
+
+# 🤝 **Contact**
+For questions about this hackathon submission, please contact the development team.
